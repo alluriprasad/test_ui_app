@@ -2,6 +2,9 @@
   "name": "test",
   "author": "Shiva",
   "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x"
+    },
   "main": "server.js",
   "dependencies": {
     "ampersand-dom": "^1.2.1",
